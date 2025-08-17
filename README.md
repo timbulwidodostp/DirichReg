@@ -1,6 +1,8 @@
 # DirichReg
 Fitting a Dirichlet Regression Use DirichReg (DirichletReg) With (In) R Software
 
+https://www.youtube.com/watch?v=cV5k6O9kwN4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
